@@ -2,7 +2,7 @@
 
 A simple project demonstrating **Continuous Integration and Continuous Deployment (CI/CD)** using GitHub Actions to automatically deploy a static website to GitHub Pages.
 
-Project page: <https://roadmap.sh/projects/nginx-log-analyser>
+Project page: [<https://roadmap.sh/projects/nginx-log-analyser>](https://roadmap.sh/projects/github-actions-deployment-workflow)
 
 ## 🚀 How It Works
 

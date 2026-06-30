@@ -1,4 +1,4 @@
-# gh-deployment-workflow
+# GitHub Pages Deployment
 
 A simple project demonstrating **Continuous Integration and Continuous Deployment (CI/CD)** using GitHub Actions to automatically deploy a static website to GitHub Pages.
 
